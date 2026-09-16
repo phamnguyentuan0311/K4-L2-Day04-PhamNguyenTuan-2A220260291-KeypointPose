@@ -1,6 +1,6 @@
 # Báo cáo Ngày 4 - Keypoint & Pose
 
-Họ tên: ______   Nhóm: ______   Ngày: ______
+Họ tên: Phạm Nguyễn Tuân   Nhóm: Cá nhân  Ngày:16/09/2026
 
 > Cách dùng: copy file này thành `reports/REPORT.md`. Điền bằng số liệu do công cụ sinh ra;
 > không tự ước lượng hoặc sửa số trong file JSON.
@@ -13,7 +13,7 @@ thời gian gán / 20. -->
 
 | Chỉ số | Giá trị |
 | --- | ---: |
-| Số ảnh đã gán | |
+| Số ảnh đã gán |20 |
 | Số skeleton | |
 | v=2 / v=1 / v=0 | |
 | Thời gian trung bình mỗi ảnh | |
